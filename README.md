@@ -23,4 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aapocalypse&show_icons=true&locale=en&layout=compact" alt="aapocalypse" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aapocalypse&show_icons=true&locale=en" alt="aapocalypse" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aapocalypsez&show_icons=true&locale=en" alt="aapocalypsez" /></p>
