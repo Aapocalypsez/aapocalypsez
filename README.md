@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aapocalypse" alt="aapocalypse" /></a> </p>
 
-- 🔭 I’m currently working on **cloud System**
+- 🔭 I’m currently working on **AI & ML**
 
-- 🌱 I’m currently learning **Kali linux and other tools**
+- 🌱 I’m currently learning **Data Analytics and other tools**
 
 - 📫 How to reach me **atulkumarsingh467@gmail.com**
 
