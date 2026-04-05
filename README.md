@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atul kumar Singh</h1>
-<h3 align="center">A passionate Learner of Networking and Cybersecurity</h3>
+<h3 align="center">A passionate Learner of Data Analytics And AI & ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aapocalypse&label=Profile%20views&color=0e75b6&style=flat" alt="aapocalypse" /> </p>
 
